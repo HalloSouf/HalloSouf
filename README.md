@@ -1,3 +1,7 @@
 ## Hey there!
 
-My name is Soufiane, and I'm a 17-year-old ICT-student at Windesheim Flevoland located in the Netherlands. At the moment I'm expanding my skills on different areas such as frontend & backend. If you have any questions, you can reach my by e-mail or add me on Discord **HalloSouf#9342**. If you want to support me in any way, you can give a little donation on [paypal](https://www.paypal.com/paypalme/hallosouf)
+
+
+Hello there, my name is Soufiane. Most of my friends just call me Souf. I am a 17-years-old ICT-student at Windesheim Flevoland located in the Netherlands. My interests are now focussed on full-stack webdevelopment. 
+
+If you have any question adressed to me, feel free to ask them by e-email or Discord which is **HalloSouf#9342**. If you want to support my projects, feel free for an one-time donation on [paypal](https://www.paypal.com/paypalme/hallosouf)
