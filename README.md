@@ -5,7 +5,7 @@ My name is Soufiane, but most of my frineds just call me Souf. I'm 18 years old 
 ### Current projects
 
 - Full Stack Developer @ <a href="https://github.com/travelchef">🛩️ TravelChef</a>
-- Back-end Developer @ <a href="https://github.com/bulkr">👟 Bulkr</a>
+- Back-end Developer @ <a href="https://github.com/bulkr-social">👟 Bulkr</a>
 
 ### Tech stack
 
