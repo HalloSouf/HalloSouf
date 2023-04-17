@@ -2,6 +2,11 @@
 
 My name is Soufiane, but most of my frineds just call me Souf. I'm 18 years old and a full stack developer located in the Nederlands. I'm currently studying HBO-ICT at Windesheim Flevoland where I'm focussing on the Software Engineering part.
 
+### Current projects
+
+- Full Stack Developer @ <a href="https://github.com/travelchef">🛩️ TravelChef</a>
+- Back-end Developer @ <a href="https://github.com/bulkr">👟 Bulkr</a>
+
 ### Tech stack
 
 <p>
