@@ -8,6 +8,8 @@ My name is Soufiane, but most of my frineds just call me Souf. I'm 18 years old 
   <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/-Nodejs-000?style=for-the-badge&logo=node.js"></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp"></a>
 </p>
 
 ### Frameworks
