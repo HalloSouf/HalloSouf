@@ -27,6 +27,7 @@ My name is Soufiane, but most of my frineds just call me Souf. I'm 18 years old 
   <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma"></a>
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/-NuxtJS-000?style=for-the-badge&logo=nuxt.js"></a>
   <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React (Native)-000?style=for-the-badge&logo=react"></a>
 </p>
 
 <p>
