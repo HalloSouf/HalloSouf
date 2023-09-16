@@ -1,6 +1,6 @@
 # Hello there! 🦜
 
-My name is Soufiane, but most of my frineds just call me Souf. I'm 18 years old and a full stack developer located in the Nederlands. I'm currently studying HBO-ICT at Windesheim Flevoland where I'm focussing on the Software Engineering part.
+Hey friends! My name is Soufiane, and I'm currently 19-years-old. I currently study HBO-ICT on Windesheim located in the Netherlands. Besides my study, I'm doing some freelance work as full stack developer.
 
 ### Tech stack
 
