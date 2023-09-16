@@ -1,4 +1,4 @@
-# Hello there! 🦜
+# Hey, I see you! 🐦
 
 Hey friends! My name is Soufiane, and I'm currently 19-years-old. I currently study HBO-ICT on Windesheim located in the Netherlands. Besides my study, I'm doing some freelance work as full stack developer.
 
