@@ -21,6 +21,7 @@ Hey friends! My name is Soufiane, and I'm currently 19-years-old. I currently st
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express"></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma"></a>
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://img.shields.io/badge/-NuxtJS-000?style=for-the-badge&logo=nuxt.js"></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js"></a>
   <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo"></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React (Native)-000?style=for-the-badge&logo=react"></a>
 </p>
