@@ -1,6 +1,10 @@
 # Hey, I see you! 🐦
 
-Hey friends! My name is Soufiane, and I'm currently 19-years-old. I currently study HBO-ICT on Windesheim located in the Netherlands. Besides my study, I'm doing some freelance work as full stack developer.
+🏡 Hi there! I'm Soufiane, a 20-year-old Bachelor Computer Science student at Windesheim Flevoland 🏫. My academic journey does a deep dive into Software Engineering.
+
+💻 Besides being a student, I wear the 🎩 of a Full Stack Developer, sharing my passion for coding into freelance projects. Whether creating new software or enhancing existing solutions, I enjoy bringing ideas to life for individuals and companies.
+
+💡I find joy in learning from diverse perspectives to enhance my knowledge. Whether contributing to a group effort or working on solo projects, I'm committed to pushing the boundaries of my personal development.
 
 ### Tech stack
 
