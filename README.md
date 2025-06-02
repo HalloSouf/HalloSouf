@@ -1,8 +1,10 @@
 # Hey, I see you! 🐦
 
-🏡 Hi there! I'm Soufiane, a 20-year-old Bachelor Computer Science student at Windesheim Flevoland 🏫. My academic journey does a deep dive into Software Engineering.
+🏡 Hi there! I'm Soufiane, a 21-year-old with a background in Computer Science and a passion for photography and videography.
 
-💻 Besides being a student, I wear the 🎩 of a Full Stack Developer, sharing my passion for coding into freelance projects. Whether creating new software or enhancing existing solutions, I enjoy bringing ideas to life for individuals and companies.
+💻 As a Full Stack Developer, I channel my coding skills into freelance projects, creating innovative software solutions for individuals and businesses.
+
+📸 Additionally, I'm dedicated to capturing life's moments through my lens, providing high-quality photography and videography services that tell unique stories.
 
 💡I find joy in learning from diverse perspectives to enhance my knowledge. Whether contributing to a group effort or working on solo projects, I'm committed to pushing the boundaries of my personal development.
 
